@@ -3,9 +3,13 @@ Recommendation system is a subclass of Information filtering Systems that seeks 
 
 
 # Types of Recommender system - 
+
 1.Content Based 
+
 2.Collaborative Filtering
+
 3.Hybrid
 
-The content-based movie recommendation system utilizes the TMDB dataset and employs cosine similarity to suggest movies based on their content features. By analyzing movie attributes like genres, cast, and plot keywords, the model calculates the similarity between user preferences and movie characteristics. This method helps provide personalized movie recommendations, recommending films with similar content to those the user has shown interest in, enhancing the user's movie-watching experience.
+
+We built a  content-based movie recommendation system which  utilizes the TMDB dataset and employs cosine similarity to suggest movies based on their content features. By analyzing movie attributes like genres, cast, and plot keywords, the model calculates the similarity between user preferences and movie characteristics. This method helps provide personalized movie recommendations, recommending films with similar content to those the user has shown interest in, enhancing the user's movie-watching experience.
 
